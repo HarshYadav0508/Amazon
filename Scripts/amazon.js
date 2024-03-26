@@ -1,7 +1,6 @@
-
-
 let productsHTML = '';
 
+//This feature is called Data Generation. Through HTML generation.
 products.forEach((product) => {
     productsHTML += `<div class="product-container">
     <div class="product-image-container">
